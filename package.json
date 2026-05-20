@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.5.0",
-    "@effect/experimental": "^0.48.12",
+    "@effect/experimental": "^0.60.0",
     "@effect/language-service": "^0.86.1",
     "@effect/platform": "^0.96.1",
     "@effect/platform-node": "^0.96.1",
