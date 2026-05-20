@@ -22,7 +22,6 @@
     "@effect/experimental": "^0.60.0",
     "@effect/language-service": "^0.86.1",
     "@effect/platform": "^0.96.1",
-    "@effect/platform-node": "^0.96.1",
     "@fly/sprites": "^0.0.1",
     "@monaco-editor/react": "^4.7.0",
     "@replayio/effect-platform-sprites": "https://pkg.pr.new/BLamy/effect-platform-sprites/@replayio/effect-platform-sprites@ea4fdc4",
